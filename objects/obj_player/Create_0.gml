@@ -1,7 +1,7 @@
 /// @description variáveis
 
 velocidade = 10;
-vida = 4;
+vida = 5;
 supertiro = false;
 quantidade = 0;
 superdmg = 3;
