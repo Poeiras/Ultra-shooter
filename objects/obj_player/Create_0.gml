@@ -1,6 +1,6 @@
 /// @description variáveis
 
-velocidade = 10;
+velocidade = 9;
 vida = 5;
 supertiro = false;
 quantidade = 0;

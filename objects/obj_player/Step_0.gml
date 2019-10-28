@@ -13,7 +13,6 @@ var horizontal = (dir - esq ) * velocidade;
 var vertical = (baixo - cima ) * velocidade;
 
 // as mudanças dos eixos são operações feitas pelas variáveis positivas
-
 x += horizontal;
 y += vertical;
 x = clamp(x,47, room_width - 47);
